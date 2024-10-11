@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "carsclassification-pytorch-lightning"
+version = "0.1.0"
+description = "Identification of car manufacturer"
+authors = ["sameervk <sameervk.iitkgp@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.11.9"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
