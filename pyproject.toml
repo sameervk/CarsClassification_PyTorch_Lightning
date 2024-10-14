@@ -8,6 +8,9 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "3.11.9"
 lightning = "^2.4.0"
+torchvision = "^0.19.1"
+ipykernel = "^6.29.5"
+matplotlib = "^3.9.2"
 
 
 [build-system]

@@ -7,7 +7,7 @@
 
 
 ## Python virtualenv creation
-1. Using Poetry: https://python-poetry.org/, so please install poetry at the global level
+1. Using Poetry: https://python-poetry.org/ for python package managment, so please install poetry at the global level.
 2. From the folder, run `poetry install`
 	- This should create a virtual environment in the project folder.
 	- Add the virtualenv to .gitignore
